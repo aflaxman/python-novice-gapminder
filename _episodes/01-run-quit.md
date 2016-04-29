@@ -2,9 +2,9 @@
 layout: episode
 title: "Running and Quitting"
 teaching: 15
-exercises: 0
+exercises: 5
 questions:
-- "How can I run Python programs?"
+- "How can I run Python, create new notebooks, and evaluate Python code interactively?"
 objectives:
 - "Launch the Jupyter Notebook, create new notebooks, and exit the Notebook."
 - "Create Markdown cells in a notebook."
